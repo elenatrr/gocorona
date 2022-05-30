@@ -508,12 +508,12 @@ body {
 }
 .experts__video {
 	flex: 0 1 50%;
+   display: block;
 	padding: 0 0 30% 0;
 	position: relative;
 	box-shadow: 0px 4px 18px rgba(88, 126, 236, 0.18);
 	border-radius: 8px;
 	overflow: hidden;
-	cursor: pointer;
 }
 .experts__video img {
 	position: absolute;
